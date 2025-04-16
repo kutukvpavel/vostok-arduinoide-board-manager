@@ -20,8 +20,8 @@
           "size": "1501117",
           "boards": [
             {
-              "name": "Vostok UNO-VN035",
-              "name": "LDM BB-VK035"
+              { "name": "Vostok UNO-VN035" },
+              { "name": "LDM BB-VK035" }
             }
           ],
           "toolsDependencies": [
