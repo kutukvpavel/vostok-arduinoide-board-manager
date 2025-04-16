@@ -1,9 +1,9 @@
 {
   "packages": [
     {
-      "name": "Vostok",
+      "name": "Vostok+LDM",
       "websiteURL": "https://github.com/DCVostok",
-      "maintainer": "DCVostok",
+      "maintainer": "kutukvpavel",
       "email": "",
       "help": {
         "online": ""
