@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/kutukvpavel/vostok-1-frmwrk-vn-arduino/archive/refs/tags/v1.1.0.zip",
           "archiveFileName": "vostok-1-frmwrk-vn-arduino-1.1.0.zip",
-          "checksum": "SHA-256:",
-          "size": "",
+          "checksum": "SHA-256:5AEF9A98F7A9A830D0482FBEC04BE4500DA225344BFB183D42E18664BBA2331A",
+          "size": "1501117",
           "boards": [
             {
               "name": "Vostok UNO-VN035",
