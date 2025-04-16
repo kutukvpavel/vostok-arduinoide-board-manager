@@ -1,3 +1,5 @@
+This fork adds support for LDM-BB-K1946VK035 minimal evaluation board by LDM-Systems.
+
 # Vostok Arduino Board Manager
 Storage Arduino Board Manager JSON for Vostok boards.
 # Using 
