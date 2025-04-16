@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/kutukvpavel/vostok-1-frmwrk-vn-arduino/archive/refs/tags/v1.1.1.zip",
           "archiveFileName": "vostok-1-frmwrk-vn-arduino-1.1.1.zip",
-          "checksum": "SHA-256:5AEF9A98F7A9A830D0482FBEC04BE4500DA225344BFB183D42E18664BBA2331A",
-          "size": "1501117",
+          "checksum": "SHA-256:41de4dd7981df40101a2b7dbc0fae949cbecb8efb123395e89159add8179f647",
+          "size": "1491009",
           "boards": [
               { "name": "Vostok UNO-VN035" },
               { "name": "LDM BB-VK035" }
