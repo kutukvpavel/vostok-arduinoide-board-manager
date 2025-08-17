@@ -12,12 +12,12 @@
         {
           "name": "k1921vk MCU based boards",
           "architecture": "k1921vk",
-          "version": "1.1.1",
+          "version": "1.1.2-kut",
           "category": "Contributed",
-          "url": "https://github.com/kutukvpavel/vostok-1-frmwrk-vn-arduino/archive/refs/tags/v1.1.1.zip",
-          "archiveFileName": "vostok-1-frmwrk-vn-arduino-1.1.1.zip",
-          "checksum": "SHA-256:41de4dd7981df40101a2b7dbc0fae949cbecb8efb123395e89159add8179f647",
-          "size": "1491009",
+          "url": "https://github.com/kutukvpavel/vostok-1-frmwrk-vn-arduino/archive/refs/tags/v1.1.2-kut.zip",
+          "archiveFileName": "vostok-1-frmwrk-vn-arduino-1.1.2-kut.zip",
+          "checksum": "SHA-256:9c687915099c40831c826f4f17b1fa670dfcb4bb92621566f8266db37a63a4f0",
+          "size": "1493650",
           "boards": [
               { "name": "Vostok UNO-VN035" },
               { "name": "LDM BB-VK035" }
